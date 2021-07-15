@@ -1,0 +1,7 @@
+(initial-fact)
+(simulado desde-las 9 59 0 segundosporciclo 1)
+(Tiempo)
+(HoraActualizada 36063)
+(hora_actual 10)
+(minutos_actual 1)
+(segundos_actual 3)
